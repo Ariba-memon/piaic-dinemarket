@@ -1,25 +1,6 @@
 Recorded Lectures :
 
 
-[class1](https://www.youtube.com/watch?v=NgoGiTMciq8&list=PL0VhnZARkgZOQ_S-OlkS3ypYFN2gfrv_S)
-,
-[class2](https://www.youtube.com/watch?v=V8FkyS4SMFQ&list=PL0VhnZARkgZOQ_S-OlkS3ypYFN2gfrv_S&index=2)
-,
-[class3](https://www.youtube.com/watch?v=-dEKKijgpSQ&list=PL0VhnZARkgZOQ_S-OlkS3ypYFN2gfrv_S&index=3)
-
-
-
-[youtube](https://www.youtube.com/@leadingbright2580)
-
-
-Here we will be using Next js , Tailwind css,react-hot-toast,react icons, sanity ,firebase! etc
-
-For error of Module not found in vercel deployment use this command : 
-```terminal
-npm install encoding
-```
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
